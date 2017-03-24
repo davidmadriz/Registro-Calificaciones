@@ -1,0 +1,47 @@
+/*
+ * Styles for this app
+ * Disow, Company 2017
+ */
+
+.labels_evaluacion{
+	color: white;
+	background-color: gray;
+	border-radius: 4px;
+	width: 110px;
+	padding: 5px;
+}
+h3{
+	color: gray;
+}
+.frm{
+	max-width: 500px !important;
+	margin: auto;
+	padding: 10px;
+}
+table {
+   border-collapse: collapse;
+}
+table, td, th {
+   border: 1px solid black;
+}
+td, th {
+ padding: 5px;
+}
+th {
+ text-align: left;
+}
+tr:nth-child(even) {
+ background: #eee;
+}
+.link{
+	color: black !important;
+}
+.link:hover{
+	color: red !important;
+}
+label{
+	padding-left: 10px;
+}
+.p_1{
+	padding: 20px;
+}
